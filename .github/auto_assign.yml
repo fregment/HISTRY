@@ -1,0 +1,10 @@
+addReviewers: true
+
+reviewers:
+  - fregment
+
+addAssignees: author
+
+filterLabels:
+  exclude:
+    - dependencies

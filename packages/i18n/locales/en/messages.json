@@ -1,0 +1,28 @@
+{
+  "extensionName": {
+    "description": "Extension name",
+    "message": "HISTRY"
+  },
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "See related pages from your browsing history"
+  },
+  "toggleTheme": {
+    "message": "Toggle theme"
+  },
+  "displayErrorInfo": {
+    "message": "Error occurred"
+  },
+  "displayErrorDescription": {
+    "message": "Sorry, something went wrong while loading the page."
+  },
+  "displayErrorDetailsInfo": {
+    "message": "Error details:"
+  },
+  "displayErrorUnknownErrorInfo": {
+    "message": "Unknown error"
+  },
+  "displayErrorReset": {
+    "message": "Try Again"
+  }
+}
