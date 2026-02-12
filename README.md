@@ -1,5 +1,14 @@
 # HISTRY
 
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-34A853)
+![pnpm](https://img.shields.io/badge/pnpm-workspace-F69220?logo=pnpm)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A Chrome extension that suggests related pages from your browsing history based on the currently active tab. A bookmark-bar-like strip appears at the top of every page with links you've visited in similar browsing contexts.
 
 ## How It Works
